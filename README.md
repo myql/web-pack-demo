@@ -1,1 +1,1 @@
-# web-pack-demo
+# webpack-demo
